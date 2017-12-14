@@ -1,0 +1,26 @@
+1- How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+
+* I'll be able to recovery after damage or get back for better idea, so I'll be safe to test what I think without fear from destroying the project.
+
+
+2- What do you think are the pros & cons of manually choosing when to create a commit, like you do in Git, vs having version automatically saved, like Google Docs does?
+
+* Manually allows me to add a commit of what I see exactly needed to be committed.
+
+3- Why do you think some version control systems, like git, allow saving multiple files in one commit, while others like Goolge Docs, treat each file separately?
+
+* Maybe because the first was designed for development, but the second for general, software depends on all files at the same time, usually.
+
+
+4- How can you use the commands git log & git diff to view the history of files?
+
+* First showing the IDs of files by using git log, then compare two IDs to know the history of changing.
+
+
+5- How might using version control make you more confident to make changes that could break something?
+
+* I can jump among all commits, easily for recovery.
+
+6- Now that you have your workspace set up, what do you want to try using git for?
+
+* For java and kotlin, basically.
