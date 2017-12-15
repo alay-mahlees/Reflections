@@ -1,1 +1,15 @@
-When would you want to create a remote repository rather than keeping all your work local? 
+1- When would you want to create a remote repository rather than keeping all your work local? 
+
+* A remote repository will be when it's work group, either my team or public.
+
+
+
+2- Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with remote repository?
+
+* Because Git does not know what I need to pull exactly.
+
+
+
+3- Describe the differences between forks, clones, & branches. when you use one instead of onther? 
+
+* I use Froks when to use a project in GitHub with saving Author rights, & clones when I'd like to import any project to local, & branches when I'd like to test a feature that I'm not sure if it is better, or create new UI language .. etc.
