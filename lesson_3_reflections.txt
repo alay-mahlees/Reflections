@@ -13,3 +13,9 @@
 3- Describe the differences between forks, clones, & branches. when you use one instead of onther? 
 
 * I use Froks when to use a project in GitHub with saving Author rights, & clones when I'd like to import any project to local, & branches when I'd like to test a feature that I'm not sure if it is better, or create new UI language .. etc.
+
+
+
+4- What is the benefit of having a copy of the last known state of remote strored locally?
+
+* I can add more commits on master branch till using git fetch & git merge or git pull to update the stored with the remote versions.
