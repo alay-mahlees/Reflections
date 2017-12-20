@@ -24,4 +24,18 @@
 
 5- How would you collaborate without using git or github? what would be easier, and what would be harder?
 
-*- It was by flash memory ... nothing else. 
+* It was by flash memory ... nothing else. 
+
+
+6- When you want to make changes in a separate branch rather than dierctly in master? what benefits does each approach have? 
+
+* I do that when I'd like to test something may couse trouble, or to set a new UI language, & I don't see any benefit to go dirctly in master just in case I know exactly what I will do to the end of the project.
+
+
+
+
+
+
+
+
+
